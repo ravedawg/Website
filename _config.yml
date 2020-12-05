@@ -1,0 +1,48 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: The Raven-Rae Blog
+title_bean: Bean-all End-all
+#email: ""
+description: >- # this means to ignore newlines until "baseurl:"
+  Thank you for visiting! This is where I like to document and share my projects and adventures with friends, family and coworkers. I like machine learning, cyber, data science, coding, reading, cooking and orchids ... how could you not?
+description_bean: >- # this means to ignore newlines until "baseurl:"
+ "But are there beans?"
+ 
+baseurl: "www.ravenrae.org" #website" # when publishing to web use "website"; o/w ""
+url: "localhost:4000" # when demo'ing on local machine use "localhost:4000:; ow ""
+twitter_username: "ravedawwg"
+github_username:  ravedawg
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+
+# enable google analytics
+google_analytics: UA-NNNNNNNN-N
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
