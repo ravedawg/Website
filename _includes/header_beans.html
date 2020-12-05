@@ -5,8 +5,10 @@
     {%- assign page_paths = site.header_pages | default: default_paths -%}
     <!---
     Previously: href="{{ "/" | relative_url }}"
+    http://localhost:4000/bean_home_not_md/
+    
     -->
-    <a class="site-title" rel="author" href="http://localhost:4000/bean_home_not_md/">{{ site.title_bean | escape }}</a>
+    <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title_bean | escape }}</a>
 
     {%- if page_paths -%}
       <nav class="site-nav">
