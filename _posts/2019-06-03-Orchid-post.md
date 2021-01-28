@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Bean post"
+title:  "First Orchid Post"
 date:   2020-11-19 16:56:00 -0400
-categories: beans
-tags: [white beans, black beans]
+categories: orchids
+tags: [orchids]
 ---
 
-Bean post test
+orchid post test
 
 ![Daisy](/photos/20190412-Daisy-PlumBlossoms.png)
