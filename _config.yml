@@ -13,8 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: The Raven-Rae Blog
-title_bean: Bean-all End-all
+title: "Raven's Blog"
 #email: ""
 description: >- # this means to ignore newlines until "baseurl:"
   Thank you for visiting! This is where I like to document and share my projects and adventures with friends, family and coworkers. I like machine learning, data science, coding, reading, cooking and orchids ... how could you not?
@@ -25,6 +24,15 @@ baseurl: "" #website" # when publishing to web use "website"; o/w ""
 url: "" # when demo'ing on local machine use "localhost:4000:; ow ""
 twitter_username: "ravedawwg"
 github_username:  ravedawg
+
+
+# adding categories functionality sans plugin
+collections:
+  category:
+    output: true
+    
+# allow posts dated in the "future" to be true
+future: true
 
 # Build settings
 markdown: kramdown
