@@ -2,7 +2,7 @@
 layout: post
 title:  "Skunk Cabbage"
 date:   2020-02-23 00:01:00 -0400
-categories: garden
+categories: plants
 tags: [Skunk Cabbage]
 ---
 <h3>Skunk Cabbage</h3>

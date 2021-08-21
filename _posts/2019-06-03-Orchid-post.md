@@ -2,7 +2,7 @@
 layout: post
 title:  "My oldest orchids"
 date:   2021-05-15 16:56:00 -0400
-categories: orchids
+categories: plants
 tags: [orchids]
 ---
 

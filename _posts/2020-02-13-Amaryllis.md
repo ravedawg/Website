@@ -2,7 +2,7 @@
 layout: post
 title:  "Amaryllis"
 date:   2020-02-13 00:01:00 -0400
-categories: garden
+categories: plants
 tags: [Amaryllis]
 ---
 <h3>Keukenhof</h3>

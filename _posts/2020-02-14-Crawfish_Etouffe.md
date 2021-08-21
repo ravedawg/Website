@@ -2,7 +2,7 @@
 layout: post
 title:  "Lobster Etouffee"
 date:   2021-02-13 00:01:00 -0400
-categories: cooking
+categories: food
 tags: [seafood]
 ---
 <style>

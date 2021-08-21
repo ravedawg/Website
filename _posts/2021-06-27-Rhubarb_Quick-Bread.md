@@ -2,7 +2,7 @@
 layout: post
 title:  "Rhubarb Quick Bread"
 date:   2021-06-27 00:01:00 -0400
-categories: cooking
+categories: food
 tags: [rhubarb]
 ---
 <style>
