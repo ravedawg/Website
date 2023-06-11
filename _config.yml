@@ -13,12 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "Raven's Blog"
+title: "Our Wedding"
 #email: ""
 description: >- # this means to ignore newlines until "baseurl:"
-  Thank you for visiting! This is where I like to document and share my projects and adventures with friends, family and coworkers. I like machine learning, data science, coding, reading, cooking and orchids ... how could you not?
-description_bean: >- # this means to ignore newlines until "baseurl:"
- "But are there beans?"
+  We look forward to celebrating with you!
  
 baseurl: "" #website" # when publishing to web use "website"; o/w ""
 url: "" # when demo'ing on local machine use "localhost:4000:; ow ""
