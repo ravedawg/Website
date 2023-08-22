@@ -20,8 +20,8 @@ description: >- # this means to ignore newlines until "baseurl:"
  
 baseurl: "" #website" # when publishing to web use "website"; o/w ""
 url: "" # when demo'ing on local machine use "localhost:4000:; ow ""
-twitter_username: "ravedawwg"
-github_username:  ravedawg
+#twitter_username: "ravedawwg"
+#github_username:  ravedawg
 
 
 # adding categories functionality sans plugin
