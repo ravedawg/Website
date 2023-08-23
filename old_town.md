@@ -1,11 +1,11 @@
 ---
 layout: about_page
-title: old town alexandria
+title: Old Town
 permalink: /old_town/
 order: 3
 ---
 
-We first met one another in Old Town, and went on to live there for 4 years. These are some of our favorite places.
+We met in Old Town, and went on to live there for 4 years. These are some of our favorite places.
 
 Nearby Accommodations
 - [*The Alexandrian*](https://thealexandrian.com/)

@@ -1,33 +1,40 @@
 ---
 layout: about_page
-title: our wedding
+title: ''
 order: 1
 ---
 
-We're getting married! And we'd love for you to be there!
+<p align="middle">We're getting married! And we'd love for you to be there!</p>
 
-Please join us at The Athenaeum in Old Town Alexandria on Friday, October 6th. 
+<p align="middle">Please join us at <span style="color:#FF7F50;">The Athenaeum</span>  in Old Town Alexandria on Friday, October 6th.</p>
+
+<p align="middle">210 Prince St, Alexandria VA</p>
 
 <p align="middle">
   <img src="/photos/TheAthenaeum.jpeg" title="The Athenaeum " width="400" />
+<br><span style="color: gray;">The Athenaeum</span> 
 </p>
-<p align="middle">The Athenaeum</p>
 
-Doors will open at 6pm, ceremony to begin at 6:45pm.
+<p align="middle"><i>Tentative Schedule</i></p>
 
-The ceremony will be followed by hors d'oeuvres in The Athenaeum's courtyard, to be followed by dinner and dancing.
+<p align="middle"><i>Doors will open at 6:00pm</i></p>
+
+<p align="middle"><i>Ceremony will begin at 6:45pm</i></p>
+
+<p align="middle"><i>The ceremony will be followed by hors d'oeuvres in the courtyard</i></p>
+
+<p align="middle"><i>Dinner at 7:45, followed by dancing</i></p>
+
+<p align="middle"><i>Attire is semi-formal</i></p>
+
 
 <p align="middle">
   <img src="/photos/Athenaeum_courtyard.jpg" title="The Athenaeum Courtyard" width="400" />
+<br><span style="color: gray;">The Courtyard</span>
 </p>
-<p align="middle">The courtyard, where hors d'oeuvres will be served after the ceremony</p>
 
-The Athenaeum is a very small historic art gallery. We made the difficult choice to exclude children from the invitation so that we could include some friends in addition to family. We apologize for the inconvenience. 
+<p align="middle">The Athenaeum is a small, historic art gallery. We made the difficult choice to exclude children from the event so that we could include a few friends in addition to family.<br>We apologize for the inconvenience.</p>
 
-Attire is semi-formal. 
+<p align="middle">Old Town is one of our favorite places, and it's very beautiful in the Fall.<br>We look forward to hosting you!</p>
 
-Old Town is one of our favorite places, and it's very beautiful in the Fall. We look forward to celebrating with you!
-
-Love,
-
-Ben and Raven
+<p align="middle">-Ben & Raven</p>
