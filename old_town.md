@@ -32,4 +32,4 @@ Favorite Restaurants
 Transportation
 - Old Town begins at the King Street metro stop and continues to the waterfront. The King Street Metro stop is on the yellow line, which connects to Reagan Airport (~10 min ride)
 - The King Street Trolley, which runs up and down King St every 15 min is free
-- Uber and lift are fairly easy to get in Old Town
+- Uber and Lyft are fairly easy to get in Old Town
