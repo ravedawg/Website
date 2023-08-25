@@ -8,7 +8,7 @@ order: 1
 
 <p align="middle">Please join us at <span style="color:#FF7F50;">The Athenaeum</span>  in Old Town Alexandria on Friday, October 6th.</p>
 
-<p align="middle">210 Prince St, Alexandria VA</p>
+<p align="middle">201 Prince St, Alexandria VA</p>
 
 <p align="middle">
   <img src="/photos/TheAthenaeum.jpeg" title="The Athenaeum " width="400" />
