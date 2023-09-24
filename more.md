@@ -2,7 +2,7 @@
 layout: about_page
 title: more
 permalink: /more/
-order: 5
+order: 7
 ---
 
 We'll post some more engagement photos soon :)

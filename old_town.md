@@ -18,6 +18,7 @@ Favorite Small Businesses
 - [*PennyPost*](https://shoppennypost.com/) (best store ever?)
 - [*Misha's coffee*](https://mishascoffee.com/)  - there are two locations in Old Town. One at the Waterfront, and one on King St
 - [*Old Town Books*](https://oldtownbooks.com/)
+- [*The Spice & Tea Exchange*](https://www.spiceandtea.com/alexandria)
 
 Favorite Restaurants
 - [*Brut Champagne and Wine Bar*](https://brutwinebarva.com/) (Wine Bar and small plates - say hi to Dustin for us!)

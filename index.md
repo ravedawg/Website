@@ -15,17 +15,19 @@ order: 1
 <br><span style="color: gray;">The Athenaeum</span> 
 </p>
 
-<p align="middle"><i>Tentative Schedule</i></p>
+<p align="middle">Schedule</p>
 
 <p align="middle"><i>Doors will open at 6:00pm</i></p>
 
-<p align="middle"><i>Ceremony will begin at 6:45pm</i></p>
+<p align="middle"><i>Ceremony will begin at 6:30pm</i></p>
 
 <p align="middle"><i>The ceremony will be followed by hors d'oeuvres in the courtyard</i></p>
 
-<p align="middle"><i>Dinner at 7:45, followed by dancing</i></p>
+<p align="middle"><i>Dinner served buffet-style beginning at 7:45</i></p>
 
-<p align="middle"><i>Attire is semi-formal</i></p>
+<p align="middle"><i>As the night goes, first dance ~9pm, cake cutting ~9:30</i></p>
+
+<p align="middle"><i>Attire is semi-formal (ties and jackets not required)</i></p>
 
 
 <p align="middle">
